@@ -1,0 +1,433 @@
+Order.Date,Category,Segment,Sales,Profit
+2011-01-01,Furniture,Consumer,23340,-2033.5755000000001
+2011-01-01,Furniture,Corporate,4333,724.7526
+2011-01-01,Furniture,Home Office,6786,2000.0238
+2011-01-01,Office Supplies,Consumer,18704,2591.391
+2011-01-01,Office Supplies,Corporate,9456,1257.4065
+2011-01-01,Office Supplies,Home Office,5372,724.9406
+2011-01-01,Technology,Consumer,14644,706.87346
+2011-01-01,Technology,Corporate,10492,1763.4787000000001
+2011-01-01,Technology,Home Office,5775,586.5098
+2011-02-01,Furniture,Consumer,11859,167.72070000000005
+2011-02-01,Furniture,Corporate,16637,2794.3213
+2011-02-01,Furniture,Home Office,2146,-83.4212
+2011-02-01,Office Supplies,Consumer,8473,1334.6558
+2011-02-01,Office Supplies,Corporate,6351,845.8413
+2011-02-01,Office Supplies,Home Office,7455,155.68890000000002
+2011-02-01,Technology,Consumer,14926,1163.33432
+2011-02-01,Technology,Corporate,20009,5227.164
+2011-02-01,Technology,Home Office,3296,812.60186
+2011-03-01,Furniture,Consumer,26147,4588.3941
+2011-03-01,Furniture,Corporate,10957,-545.5459
+2011-03-01,Furniture,Home Office,7678,845.4396
+2011-03-01,Office Supplies,Consumer,21036,3796.311
+2011-03-01,Office Supplies,Corporate,7340,1646.4865
+2011-03-01,Office Supplies,Home Office,6014,968.6306999999999
+2011-03-01,Technology,Consumer,22972,3281.86364
+2011-03-01,Technology,Corporate,13622,1024.89962
+2011-03-01,Technology,Home Office,29960,-302.9110000000002
+2011-04-01,Furniture,Consumer,12346,741.5092000000001
+2011-04-01,Furniture,Corporate,10357,620.0487
+2011-04-01,Furniture,Home Office,8642,723.9802999999999
+2011-04-01,Office Supplies,Consumer,20058,3970.2343
+2011-04-01,Office Supplies,Corporate,19021,1615.7225
+2011-04-01,Office Supplies,Home Office,7532,92.64170000000003
+2011-04-01,Technology,Consumer,20578,3220.49178
+2011-04-01,Technology,Corporate,11643,1414.6636
+2011-04-01,Technology,Home Office,6750,503.03229999999996
+2011-05-01,Furniture,Consumer,28707,1276.2282
+2011-05-01,Furniture,Corporate,12439,-550.9528
+2011-05-01,Furniture,Home Office,3835,-179.25169999999997
+2011-05-01,Office Supplies,Consumer,20889,2259.011
+2011-05-01,Office Supplies,Corporate,18186,2521.5038
+2011-05-01,Office Supplies,Home Office,7044,301.99120000000005
+2011-05-01,Technology,Consumer,28807,2816.32394
+2011-05-01,Technology,Corporate,23538,3898.71506
+2011-05-01,Technology,Home Office,3317,-159.74
+2011-06-01,Furniture,Consumer,39107,547.0024999999998
+2011-06-01,Furniture,Corporate,28262,1888.5440000000003
+2011-06-01,Furniture,Home Office,10999,1450.3753
+2011-06-01,Office Supplies,Consumer,29754,4270.0254
+2011-06-01,Office Supplies,Corporate,19477,3502.0039
+2011-06-01,Office Supplies,Home Office,15921,732.1307
+2011-06-01,Technology,Consumer,42159,6804.56032
+2011-06-01,Technology,Corporate,20368,2797.45236
+2011-06-01,Technology,Home Office,9167,1423.15254
+2011-07-01,Furniture,Consumer,13439,0.9772999999999357
+2011-07-01,Furniture,Corporate,10133,997.102
+2011-07-01,Furniture,Home Office,7811,-133.57039999999998
+2011-07-01,Office Supplies,Consumer,23842,-1300.1695000000002
+2011-07-01,Office Supplies,Corporate,10374,2163.9043
+2011-07-01,Office Supplies,Home Office,7149,89.53900000000002
+2011-07-01,Technology,Consumer,25837,2723.8685
+2011-07-01,Technology,Corporate,9684,830.33752
+2011-07-01,Technology,Home Office,7249,213.0148
+2011-08-01,Furniture,Consumer,36130,-735.0507
+2011-08-01,Furniture,Corporate,28260,888.851
+2011-08-01,Furniture,Home Office,5583,569.2841
+2011-08-01,Office Supplies,Consumer,34809,5222.8086
+2011-08-01,Office Supplies,Corporate,14527,2749.9365
+2011-08-01,Office Supplies,Home Office,7361,1800.7712
+2011-08-01,Technology,Consumer,42013,6453.23312
+2011-08-01,Technology,Corporate,26604,5323.50068
+2011-08-01,Technology,Home Office,12283,1440.33322
+2011-09-01,Furniture,Consumer,55010,7015.9927
+2011-09-01,Furniture,Corporate,20748,928.7528999999998
+2011-09-01,Furniture,Home Office,19269,2474.5029
+2011-09-01,Office Supplies,Consumer,59310,10695.030999999999
+2011-09-01,Office Supplies,Corporate,28437,4463.4764000000005
+2011-09-01,Office Supplies,Home Office,15201,2504.251
+2011-09-01,Technology,Consumer,55116,4396.8542
+2011-09-01,Technology,Corporate,26462,1519.9407
+2011-09-01,Technology,Home Office,10677,1778.08214
+2011-10-01,Furniture,Consumer,42871,7994.1151
+2011-10-01,Furniture,Corporate,23595,1977.9714999999999
+2011-10-01,Furniture,Home Office,10950,-709.635
+2011-10-01,Office Supplies,Consumer,23682,2892.6396
+2011-10-01,Office Supplies,Corporate,17377,2460.155
+2011-10-01,Office Supplies,Home Office,7168,393.2822
+2011-10-01,Technology,Consumer,34812,6159.97586
+2011-10-01,Technology,Corporate,21741,1833.23824
+2011-10-01,Technology,Home Office,16874,2961.67584
+2011-11-01,Furniture,Consumer,49970,-1595.1621
+2011-11-01,Furniture,Corporate,23415,3115.2911
+2011-11-01,Furniture,Home Office,17371,2754.6698
+2011-11-01,Office Supplies,Consumer,55056,2247.9004
+2011-11-01,Office Supplies,Corporate,28217,5864.354
+2011-11-01,Office Supplies,Home Office,11052,1687.2361
+2011-11-01,Technology,Consumer,56958,7962.90342
+2011-11-01,Technology,Corporate,19260,1490.6069400000001
+2011-11-01,Technology,Home Office,37200,9181.378060000001
+2011-12-01,Furniture,Consumer,54556,2659.4981000000002
+2011-12-01,Furniture,Corporate,52331,7847.1072
+2011-12-01,Furniture,Home Office,20152,2670.6357000000003
+2011-12-01,Office Supplies,Consumer,41830,2812.6012
+2011-12-01,Office Supplies,Corporate,28734,3977.8979
+2011-12-01,Office Supplies,Home Office,13433,2684.3026
+2011-12-01,Technology,Consumer,63954,10227.1221
+2011-12-01,Technology,Corporate,39298,3868.00612
+2011-12-01,Technology,Home Office,19653,3900.81308
+2012-01-01,Furniture,Consumer,31724,-1545.5417
+2012-01-01,Furniture,Corporate,8140,-433.0784
+2012-01-01,Furniture,Home Office,2630,116.85989999999998
+2012-01-01,Office Supplies,Consumer,23356,3215.9017
+2012-01-01,Office Supplies,Corporate,17574,2678.9465
+2012-01-01,Office Supplies,Home Office,6143,961.5788
+2012-01-01,Technology,Consumer,28105,3704.5725
+2012-01-01,Technology,Corporate,12106,444.72634000000005
+2012-01-01,Technology,Home Office,5997,1257.672
+2012-02-01,Furniture,Consumer,17220,2765.7988
+2012-02-01,Furniture,Corporate,8937,1615.9004
+2012-02-01,Furniture,Home Office,11745,56.66280000000023
+2012-02-01,Office Supplies,Consumer,15525,2633.0559
+2012-02-01,Office Supplies,Corporate,5026,1063.8422
+2012-02-01,Office Supplies,Home Office,3946,474.1062
+2012-02-01,Technology,Consumer,23301,4743.021839999999
+2012-02-01,Technology,Corporate,7773,800.6739
+2012-02-01,Technology,Home Office,7048,847.03414
+2012-03-01,Furniture,Consumer,24088,538.4195
+2012-03-01,Furniture,Corporate,17826,656.2395999999999
+2012-03-01,Furniture,Home Office,13170,533.4825
+2012-03-01,Office Supplies,Consumer,30619,5364.1341999999995
+2012-03-01,Office Supplies,Corporate,16225,3409.0486
+2012-03-01,Office Supplies,Home Office,6887,427.90829999999994
+2012-03-01,Technology,Consumer,29585,2036.25202
+2012-03-01,Technology,Corporate,14042,2967.9617200000002
+2012-03-01,Technology,Home Office,10650,2059.47112
+2012-04-01,Furniture,Consumer,34234,2416.3016
+2012-04-01,Furniture,Corporate,15665,1466.4336999999998
+2012-04-01,Furniture,Home Office,4801,-707.1815
+2012-04-01,Office Supplies,Consumer,24773,2094.5887000000002
+2012-04-01,Office Supplies,Corporate,10006,905.3481
+2012-04-01,Office Supplies,Home Office,9113,2713.6843
+2012-04-01,Technology,Consumer,31185,5216.1402
+2012-04-01,Technology,Corporate,20728,2200.5032600000004
+2012-04-01,Technology,Home Office,10555,1061.14886
+2012-05-01,Furniture,Consumer,33409,4727.5351
+2012-05-01,Furniture,Corporate,20768,3437.1515
+2012-05-01,Furniture,Home Office,8786,-1256.8163
+2012-05-01,Office Supplies,Consumer,31293,3688.2157
+2012-05-01,Office Supplies,Corporate,20894,2628.723
+2012-05-01,Office Supplies,Home Office,8854,1465.7585
+2012-05-01,Technology,Consumer,48809,9082.96822
+2012-05-01,Technology,Corporate,19264,2176.75032
+2012-05-01,Technology,Home Office,16293,3926.4177
+2012-06-01,Furniture,Consumer,42784,5999.0168
+2012-06-01,Furniture,Corporate,26173,1498.3485
+2012-06-01,Furniture,Home Office,12521,222.85810000000018
+2012-06-01,Office Supplies,Consumer,44646,5479.7887
+2012-06-01,Office Supplies,Corporate,21537,2534.2794
+2012-06-01,Office Supplies,Home Office,9663,1633.7374
+2012-06-01,Technology,Consumer,57316,10571.8445
+2012-06-01,Technology,Corporate,32096,4979.68302
+2012-06-01,Technology,Home Office,9445,1487.5972
+2012-07-01,Furniture,Consumer,20213,886.2099000000001
+2012-07-01,Furniture,Corporate,13004,711.4086
+2012-07-01,Furniture,Home Office,8277,1419.3387
+2012-07-01,Office Supplies,Consumer,24739,3485.3349
+2012-07-01,Office Supplies,Corporate,13344,1995.5356
+2012-07-01,Office Supplies,Home Office,8266,831.5143
+2012-07-01,Technology,Consumer,35116,4203.12614
+2012-07-01,Technology,Corporate,16426,1789.25514
+2012-07-01,Technology,Home Office,5862,263.66514
+2012-08-01,Furniture,Consumer,45247,4699.561
+2012-08-01,Furniture,Corporate,24811,1424.8607000000002
+2012-08-01,Furniture,Home Office,14589,220.31820000000008
+2012-08-01,Office Supplies,Consumer,47683,7427.4532
+2012-08-01,Office Supplies,Corporate,30573,5889.8206
+2012-08-01,Office Supplies,Home Office,19015,2101.6839
+2012-08-01,Technology,Consumer,67930,12514.30292
+2012-08-01,Technology,Corporate,29947,5513.71806
+2012-08-01,Technology,Home Office,23363,3782.16
+2012-09-01,Furniture,Consumer,53884,3873.7164
+2012-09-01,Furniture,Corporate,23018,2540.5773
+2012-09-01,Furniture,Home Office,19266,2199.4429999999998
+2012-09-01,Office Supplies,Consumer,47106,4307.1749
+2012-09-01,Office Supplies,Corporate,18180,1473.4569000000001
+2012-09-01,Office Supplies,Home Office,13557,1800.5644
+2012-09-01,Technology,Consumer,63703,6650.1375
+2012-09-01,Technology,Corporate,32684,3040.43674
+2012-09-01,Technology,Home Office,17992,1890.6732
+2012-10-01,Furniture,Consumer,48641,2859.5235000000002
+2012-10-01,Furniture,Corporate,23417,2388.7622
+2012-10-01,Furniture,Home Office,12768,2331.3082999999997
+2012-10-01,Office Supplies,Consumer,27367,1840.2631
+2012-10-01,Office Supplies,Corporate,20680,2096.6373
+2012-10-01,Office Supplies,Home Office,11334,2062.7881
+2012-10-01,Technology,Consumer,58854,10822.27828
+2012-10-01,Technology,Corporate,34585,4630.73368
+2012-10-01,Technology,Home Office,15296,1630.58824
+2012-11-01,Furniture,Consumer,61054,3456.9413000000004
+2012-11-01,Furniture,Corporate,36438,227.74909999999983
+2012-11-01,Furniture,Home Office,22817,1005.5406000000002
+2012-11-01,Office Supplies,Consumer,56953,6126.1304
+2012-11-01,Office Supplies,Corporate,29398,3382.2264
+2012-11-01,Office Supplies,Home Office,13641,2127.6045
+2012-11-01,Technology,Consumer,47240,5521.2626
+2012-11-01,Technology,Corporate,35331,7238.78626
+2012-11-01,Technology,Home Office,20640,2734.4806399999998
+2012-12-01,Furniture,Consumer,42853,836.8013999999998
+2012-12-01,Furniture,Corporate,31742,2895.9518000000003
+2012-12-01,Furniture,Home Office,22253,2046.4311
+2012-12-01,Office Supplies,Consumer,65135,8336.4756
+2012-12-01,Office Supplies,Corporate,28151,2561.5435
+2012-12-01,Office Supplies,Home Office,13911,2086.654
+2012-12-01,Technology,Consumer,78114,5220.48362
+2012-12-01,Technology,Corporate,37941,5723.75838
+2012-12-01,Technology,Home Office,18145,3242.6519
+2013-01-01,Furniture,Consumer,47288,7321.936
+2013-01-01,Furniture,Corporate,26382,2566.3752
+2013-01-01,Furniture,Home Office,8136,933.1472
+2013-01-01,Office Supplies,Consumer,25879,2613.3778
+2013-01-01,Office Supplies,Corporate,22489,4509.369
+2013-01-01,Office Supplies,Home Office,16622,2731.7056000000002
+2013-01-01,Technology,Consumer,23085,2636.4032199999997
+2013-01-01,Technology,Corporate,16771,1034.47146
+2013-01-01,Technology,Home Office,12545,2463.7742
+2013-02-01,Furniture,Consumer,31296,4078.1887
+2013-02-01,Furniture,Corporate,19265,181.056
+2013-02-01,Furniture,Home Office,8560,2143.0138
+2013-02-01,Office Supplies,Consumer,22304,2790.9916
+2013-02-01,Office Supplies,Corporate,11984,1860.4816
+2013-02-01,Office Supplies,Home Office,17269,3388.6969
+2013-02-01,Technology,Consumer,32577,6238.51192
+2013-02-01,Technology,Corporate,14116,2242.76208
+2013-02-01,Technology,Home Office,9876,838.7935
+2013-03-01,Furniture,Consumer,35278,2482.6374
+2013-03-01,Furniture,Corporate,17634,1457.1544
+2013-03-01,Furniture,Home Office,12408,-1326.9389999999999
+2013-03-01,Office Supplies,Consumer,35780,5416.145
+2013-03-01,Office Supplies,Corporate,19207,2397.4307
+2013-03-01,Office Supplies,Home Office,7021,1604.9012
+2013-03-01,Technology,Consumer,37069,7719.2919
+2013-03-01,Technology,Corporate,17776,1342.2452199999998
+2013-03-01,Technology,Home Office,16418,2340.9078
+2013-04-01,Furniture,Consumer,28769,1177.5660999999998
+2013-04-01,Furniture,Corporate,15467,76.3
+2013-04-01,Furniture,Home Office,10352,111.13159999999999
+2013-04-01,Office Supplies,Consumer,27407,2751.0504
+2013-04-01,Office Supplies,Corporate,18377,3053.3903999999998
+2013-04-01,Office Supplies,Home Office,9993,1393.605
+2013-04-01,Technology,Consumer,31652,4550.01998
+2013-04-01,Technology,Corporate,24599,5409.512659999999
+2013-04-01,Technology,Home Office,11219,939.4623
+2013-05-01,Furniture,Consumer,34564,-1100.3346
+2013-05-01,Furniture,Corporate,31043,1991.4699
+2013-05-01,Furniture,Home Office,8834,60.89499999999997
+2013-05-01,Office Supplies,Consumer,41037,6978.4311
+2013-05-01,Office Supplies,Corporate,19696,2550.2019
+2013-05-01,Office Supplies,Home Office,13973,2457.5027
+2013-05-01,Technology,Consumer,66949,12323.661839999999
+2013-05-01,Technology,Corporate,28704,3131.27382
+2013-05-01,Technology,Home Office,15725,102.59244000000002
+2013-06-01,Furniture,Consumer,62351,4066.7525
+2013-06-01,Furniture,Corporate,31088,4753.0043
+2013-06-01,Furniture,Home Office,21813,1377.062
+2013-06-01,Office Supplies,Consumer,49383,6674.3105000000005
+2013-06-01,Office Supplies,Corporate,40467,2770.0674
+2013-06-01,Office Supplies,Home Office,21633,1182.714
+2013-06-01,Technology,Consumer,94510,14063.49546
+2013-06-01,Technology,Corporate,47083,5589.01652
+2013-06-01,Technology,Home Office,28185,5001.99072
+2013-07-01,Furniture,Consumer,37383,4017.8375
+2013-07-01,Furniture,Corporate,22142,1945.267
+2013-07-01,Furniture,Home Office,12340,899.4346000000003
+2013-07-01,Office Supplies,Consumer,34071,5787.7663
+2013-07-01,Office Supplies,Corporate,23691,4463.8158
+2013-07-01,Office Supplies,Home Office,12528,2579.2115
+2013-07-01,Technology,Consumer,49691,5016.47494
+2013-07-01,Technology,Corporate,22592,1524.4729599999998
+2013-07-01,Technology,Home Office,15502,2629.5465999999997
+2013-08-01,Furniture,Consumer,34759,-172.44629999999995
+2013-08-01,Furniture,Corporate,56541,5320.0855
+2013-08-01,Furniture,Home Office,21009,-611.4641
+2013-08-01,Office Supplies,Consumer,48519,5091.0134
+2013-08-01,Office Supplies,Corporate,28018,4381.1406
+2013-08-01,Office Supplies,Home Office,16602,1568.9735
+2013-08-01,Technology,Consumer,55120,6919.19276
+2013-08-01,Technology,Corporate,43186,4475.68864
+2013-08-01,Technology,Home Office,22737,4051.48446
+2013-09-01,Furniture,Consumer,62775,5205.9653
+2013-09-01,Furniture,Corporate,39324,3216.4593999999997
+2013-09-01,Furniture,Home Office,25598,3089.5583
+2013-09-01,Office Supplies,Consumer,57583,7518.1058
+2013-09-01,Office Supplies,Corporate,26295,3506.3113
+2013-09-01,Office Supplies,Home Office,26889,3346.0035000000003
+2013-09-01,Technology,Consumer,69260,12211.79534
+2013-09-01,Technology,Corporate,46443,2214.6023399999995
+2013-09-01,Technology,Home Office,22459,-1403.1335
+2013-10-01,Furniture,Consumer,44751,4479.0099
+2013-10-01,Furniture,Corporate,26575,885.1455
+2013-10-01,Furniture,Home Office,17995,1347.6267
+2013-10-01,Office Supplies,Consumer,36587,3592.6772
+2013-10-01,Office Supplies,Corporate,19369,3047.7401
+2013-10-01,Office Supplies,Home Office,21446,5239.9267
+2013-10-01,Technology,Consumer,52094,4691.9702
+2013-10-01,Technology,Corporate,47423,13369.27056
+2013-10-01,Technology,Home Office,27183,5779.85572
+2013-11-01,Furniture,Consumer,67282,7237.1765000000005
+2013-11-01,Furniture,Corporate,38711,4850.5516
+2013-11-01,Furniture,Home Office,16815,1441.1099
+2013-11-01,Office Supplies,Consumer,53776,8220.81
+2013-11-01,Office Supplies,Corporate,40157,5933.9886
+2013-11-01,Office Supplies,Home Office,16803,2280.3873
+2013-11-01,Technology,Consumer,84603,7130.4332
+2013-11-01,Technology,Corporate,36969,8394.17446
+2013-11-01,Technology,Home Office,18880,2574.36514
+2013-12-01,Furniture,Consumer,83373,5726.2357
+2013-12-01,Furniture,Corporate,44811,2293.1816000000003
+2013-12-01,Furniture,Home Office,15027,541.7493999999999
+2013-12-01,Office Supplies,Consumer,65101,15219.4828
+2013-12-01,Office Supplies,Corporate,35132,5277.8727
+2013-12-01,Office Supplies,Home Office,27705,5066.1359
+2013-12-01,Technology,Consumer,65378,7751.79662
+2013-12-01,Technology,Corporate,45506,3692.5878599999996
+2013-12-01,Technology,Home Office,23443,4633.82854
+2014-01-01,Furniture,Consumer,35311,5230.9233
+2014-01-01,Furniture,Corporate,24670,-1626.7984000000001
+2014-01-01,Furniture,Home Office,9820,918.6936
+2014-01-01,Office Supplies,Consumer,44988,8518.5103
+2014-01-01,Office Supplies,Corporate,21398,1326.332
+2014-01-01,Office Supplies,Home Office,10270,-252.08649999999994
+2014-01-01,Technology,Consumer,45050,7138.26248
+2014-01-01,Technology,Corporate,28599,2845.24008
+2014-01-01,Technology,Home Office,21161,3902.3094
+2014-02-01,Furniture,Consumer,24734,1935.0421000000001
+2014-02-01,Furniture,Corporate,14127,1229.1211
+2014-02-01,Furniture,Home Office,18841,654.9573
+2014-02-01,Office Supplies,Consumer,23062,1313.3381000000002
+2014-02-01,Office Supplies,Corporate,21803,4544.8328
+2014-02-01,Office Supplies,Home Office,10329,1333.7502
+2014-02-01,Technology,Consumer,31783,3218.098
+2014-02-01,Technology,Corporate,28148,3814.3345600000002
+2014-02-01,Technology,Home Office,12021,1708.2258
+2014-03-01,Furniture,Consumer,48528,3881.4168
+2014-03-01,Furniture,Corporate,25307,3514.3125
+2014-03-01,Furniture,Home Office,15877,2103.968
+2014-03-01,Office Supplies,Consumer,36329,5441.4294
+2014-03-01,Office Supplies,Corporate,23734,1910.1712
+2014-03-01,Office Supplies,Home Office,17507,3377.2099
+2014-03-01,Technology,Consumer,46506,10609.34606
+2014-03-01,Technology,Corporate,24289,2521.69746
+2014-03-01,Technology,Home Office,25033,3997.7092
+2014-04-01,Furniture,Consumer,33919,1675.1182
+2014-04-01,Furniture,Corporate,28212,1758.8645000000001
+2014-04-01,Furniture,Home Office,8443,-219.38689999999997
+2014-04-01,Office Supplies,Consumer,40327,4236.3906
+2014-04-01,Office Supplies,Corporate,22401,2815.3971
+2014-04-01,Office Supplies,Home Office,18626,3030.6809
+2014-04-01,Technology,Consumer,37142,4747.51634
+2014-04-01,Technology,Corporate,34968,7420.94556
+2014-04-01,Technology,Home Office,18743,-1683.2251
+2014-05-01,Furniture,Consumer,49961,2360.9646000000002
+2014-05-01,Furniture,Corporate,28075,-292.8606
+2014-05-01,Furniture,Home Office,20272,2646.7712
+2014-05-01,Office Supplies,Consumer,54923,6189.5833
+2014-05-01,Office Supplies,Corporate,26853,5148.5383
+2014-05-01,Office Supplies,Home Office,16200,3151.7715
+2014-05-01,Technology,Consumer,51001,8927.59776
+2014-05-01,Technology,Corporate,24169,2529.41966
+2014-05-01,Technology,Home Office,16950,3291.77202
+2014-06-01,Furniture,Consumer,67132,6944.8023
+2014-06-01,Furniture,Corporate,41599,738.7624000000001
+2014-06-01,Furniture,Home Office,27426,-228.12560000000008
+2014-06-01,Office Supplies,Consumer,60636,9025.45
+2014-06-01,Office Supplies,Corporate,35737,4156.1132
+2014-06-01,Office Supplies,Home Office,23953,3046.5241
+2014-06-01,Technology,Consumer,68863,10037.22228
+2014-06-01,Technology,Corporate,49856,7872.5494
+2014-06-01,Technology,Home Office,26641,2185.30472
+2014-07-01,Furniture,Consumer,46123,1504.9603
+2014-07-01,Furniture,Corporate,20023,1900.0474
+2014-07-01,Furniture,Home Office,16220,5.58199999999988
+2014-07-01,Office Supplies,Consumer,33033,3778.3918
+2014-07-01,Office Supplies,Corporate,31263,6110.5627
+2014-07-01,Office Supplies,Home Office,12663,1628.102
+2014-07-01,Technology,Consumer,48994,4397.588479999999
+2014-07-01,Technology,Corporate,28237,4121.38074
+2014-07-01,Technology,Home Office,22162,4589.25716
+2014-08-01,Furniture,Consumer,56612,5476.3401
+2014-08-01,Furniture,Corporate,44231,1954.8836999999999
+2014-08-01,Furniture,Home Office,25440,1586.8301000000001
+2014-08-01,Office Supplies,Consumer,83987,11984.1483
+2014-08-01,Office Supplies,Corporate,45234,7607.392900000001
+2014-08-01,Office Supplies,Home Office,26232,4618.3738
+2014-08-01,Technology,Consumer,80941,8880.16318
+2014-08-01,Technology,Corporate,53278,6062.12628
+2014-08-01,Technology,Home Office,40678,5372.6366
+2014-09-01,Furniture,Consumer,74589,10839.9573
+2014-09-01,Furniture,Corporate,55002,2165.8209000000006
+2014-09-01,Furniture,Home Office,46184,4993.4938
+2014-09-01,Office Supplies,Consumer,65674,9260.7015
+2014-09-01,Office Supplies,Corporate,43784,10074.6597
+2014-09-01,Office Supplies,Home Office,24947,2434.3964
+2014-09-01,Technology,Consumer,82951,11357.33158
+2014-09-01,Technology,Corporate,47571,8891.21242
+2014-09-01,Technology,Home Office,40484,7961.8775
+2014-10-01,Furniture,Consumer,78578,7381.7892999999995
+2014-10-01,Furniture,Corporate,32760,1586.7694000000001
+2014-10-01,Furniture,Home Office,19359,97.65870000000001
+2014-10-01,Office Supplies,Consumer,55251,8728.176800000001
+2014-10-01,Office Supplies,Corporate,32422,6311.9832
+2014-10-01,Office Supplies,Home Office,28121,3871.1809
+2014-10-01,Technology,Consumer,83421,11705.18702
+2014-10-01,Technology,Corporate,47306,7983.27836
+2014-10-01,Technology,Home Office,45567,10543.81108
+2014-11-01,Furniture,Consumer,89681,6119.4972
+2014-11-01,Furniture,Corporate,46236,1850.3048000000001
+2014-11-01,Furniture,Home Office,32937,1136.3179999999998
+2014-11-01,Office Supplies,Consumer,83797,9454.2354
+2014-11-01,Office Supplies,Corporate,47484,7427.9018
+2014-11-01,Office Supplies,Home Office,32590,5570.6443
+2014-11-01,Technology,Consumer,103836,21156.4947
+2014-11-01,Technology,Corporate,74023,3467.6831399999996
+2014-11-01,Technology,Home Office,44728,6673.50856
+2014-12-01,Furniture,Consumer,104528,3721.1241
+2014-12-01,Furniture,Corporate,43885,300.09129999999993
+2014-12-01,Furniture,Home Office,23419,3464.0481
+2014-12-01,Office Supplies,Consumer,76557,7684.5104
+2014-12-01,Office Supplies,Corporate,46378,2707.4336000000003
+2014-12-01,Office Supplies,Home Office,27289,2359.3245
+2014-12-01,Technology,Consumer,92604,12813.7537
+2014-12-01,Technology,Corporate,50578,7446.2487599999995
+2014-12-01,Technology,Home Office,37916,6419.986220000001
