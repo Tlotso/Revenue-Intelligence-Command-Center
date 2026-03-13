@@ -9,7 +9,7 @@ st.set_page_config(page_title="Revenue Intelligence", layout="wide")
 # --- DATA LOADING ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv("superstoreglobal.csv")
+    df = pd.read_csv("data_summarized.csv")
     df['Order.Date'] = pd.to_datetime(df['Order.Date'])
     return df
 
