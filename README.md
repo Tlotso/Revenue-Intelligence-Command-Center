@@ -22,7 +22,8 @@ Unlike standard dashboards, this application utilizes:
 
 ## 🚀 Deployment
 This application is deployed on **Streamlit Cloud**. 
-[🔗 Insert your Live App Link Here]
+🔗 revenue-intelligence-command-center-a2awrcaarmzjjvmstrzck6
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Revenue-Intelligence-Command-Center-tlotso.streamlit.app/)
 
 ## 📈 Strategic Insights & Actions
 * **Scenario Worst Case:** Triggers a "Cost Optimization" alert if the projected margin falls below 10%.
